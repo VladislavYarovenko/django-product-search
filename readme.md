@@ -52,6 +52,12 @@ python manage.py migrate
 ```bash
 python manage.py createsuperuser
 ```
+
+### 5.5. Clone the product data (Optional)
+```bash
+python manage.py loaddata data.json
+```
+
 ### 6. Start the Development Server
 ```bash
 python manage.py runserver 
