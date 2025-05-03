@@ -60,5 +60,20 @@ python manage.py runserver
 - Go to http://127.0.0.1:8000/admin to manage products, categories, and tags through the Django admin panel.
 
 
+## 🤖 AI Usage Disclosure
+
+Since I haven't been working with Django before, some parts were created with the help of ChatGPT.
+
+### 🔍 Where AI Was Used:
+- **Project Setup**: Instructions for setting up the Django environment, models, and admin configuration.
+- **Code Snippets**: Assistance with the HTML template structure.
+- **README.md Content**: The gorgeous formatting of the readme file.
+
+### ✅ Compliance with AI Policy:
+- **Understanding and Ownership**: I have reviewed and tested all code generated with AI assistance, and I fully understand how each part works.
+- **Enhancement and Originality**: AI-generated code has been manually edited, integrated, and extended to suit the project’s specific requirements.
+- **Attribution**: This section and comments in the code acknowledge AI contributions where applicable.
+
+By submitting this assignment, I confirm that I take full ownership of the implementation and that I can explain every part of the codebase.
 
 
