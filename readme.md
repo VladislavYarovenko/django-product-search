@@ -24,7 +24,7 @@ This is a simple Django application that allows users to search and filter produ
 ### 1. Clone the repository
 
 ```bash
-git clone [https://github.com/your-username/django-product-search.git](https://github.com/VladislavYarovenko/django-product-search.git)
+git clone https://github.com/your-username/django-product-search.git
 cd django-product-search
 ```
 ### 2. Setup the Environment
